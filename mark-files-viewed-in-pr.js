@@ -6,6 +6,8 @@
 // @author      Michael Sprauer
 // @namespace   https://github.com/MichaelSp
 // @match       https://github.com/*
+// @match       https://github.tools.sap/*
+// @match       https://github.wdf.sap.corp/*
 // @run-at      document-idle
 // @grant       none
 // @icon        https://github.githubassets.com/pinned-octocat.svg
