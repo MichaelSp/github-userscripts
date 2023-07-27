@@ -10,9 +10,9 @@
 // @grant       none
 // @icon        https://github.githubassets.com/pinned-octocat.svg
 // @supportURL  https://github.com/MichaelSp/GitHub-userscripts/issues
+// ==/UserScript==
 
 (function start() {
-
   // mark the next file as viewed if the 'v' key is pressed
   document.addEventListener(
     "keydown",
